@@ -23,7 +23,8 @@ This portion of the documentation is meant to guide you through the process of c
 5. Type the following into the command prompt. **NOTE** that you must replace *"convertMe"* with the name of the Word file that YOU are converting!
 
         pandoc -s convertMe.docx -t markdown -o convertMe.md
-    Be VERY careful about the line above, as it must be typed EXACTLY (barring the name of the file) in order to work properly!
+        
+   Be VERY careful about the line above, as it must be typed EXACTLY (barring the name of the file) in order to work properly!
 
 6. Press **enter**. Your screen should look similar to the image below.
     ![convComplete](convertMeComplete.png)
