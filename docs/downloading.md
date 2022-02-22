@@ -19,8 +19,8 @@ This portion of the guide is centered around downloading & installing Pandoc fro
 
         Be VERY careful about the line above, as it must be typed EXACTLY in order to work properly!
         
-    Afterwards, the command prompt should look similar to the image below.
-        ![terminal pandoc](terminalPandocVersion.png)
+Afterwards, the command prompt should look similar to the image below.
+![terminal pandoc](terminalPandocVersion.png)
 
 **Congratulations!** You have succesfully installed Pandoc!
 
